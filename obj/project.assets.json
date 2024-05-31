@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\MVC\\LHPet\\LHPet.csproj",
+      "projectUniqueName": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\10e - SP3 - Atividade 5 - Implantação Web MVC\\LHPet\\LHPet.csproj",
       "projectName": "LHPet",
-      "projectPath": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\MVC\\LHPet\\LHPet.csproj",
+      "projectPath": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\10e - SP3 - Atividade 5 - Implantação Web MVC\\LHPet\\LHPet.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\MVC\\LHPet\\obj\\",
+      "outputPath": "C:\\Users\\junio\\Desktop\\FullStackSenai\\Codificação BackEnd\\10e - SP3 - Atividade 5 - Implantação Web MVC\\LHPet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
